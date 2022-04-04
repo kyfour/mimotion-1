@@ -25,4 +25,4 @@ if [[ ( $(date '+%H') == 00 ) || ( $(date '+%H') == 03 )  || ( $(date '+%H') == 
     exit 0
 else
     exit 0
-fi
+fi 
